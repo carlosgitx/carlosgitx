@@ -11,6 +11,6 @@ Compartiendo proyectos, aprendizaje constante y soluciones eficientes
 - **Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3, JavaScript  
 - **Backend:** PHP 
 - **Bases de datos:** MySQL, MSSQL Server  
-- **Herramientas:** Git, GitHub, VSCode, Postman
+- **Herramientas:** Git, GitHub, VSCode
 
 ---
